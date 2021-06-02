@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[ Remo test run pass]]>
+    </line>
+    <line>
+      <![CDATA[ Demo test run pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-06-02T07:27:58 IST" name="Suite" finished-at="2021-06-02T07:27:58 IST" duration-ms="306">
+    <groups>
+    </groups>
+    <test started-at="2021-06-02T07:27:58 IST" name="Test" finished-at="2021-06-02T07:27:58 IST" duration-ms="306">
+      <class name="com.joramforge.initative.Remo">
+        <test-method signature="run()[pri:0, instance:com.joramforge.initative.Remo@3fb1549b]" started-at="2021-06-02T07:27:58 IST" name="run" finished-at="2021-06-02T07:27:58 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ Remo test run pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.joramforge.initative.Remo -->
+      <class name="com.joramforge.initative.Demo">
+        <test-method signature="run()[pri:0, instance:com.joramforge.initative.Demo@ea6147e]" started-at="2021-06-02T07:27:58 IST" name="run" finished-at="2021-06-02T07:27:58 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ Demo test run pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- com.joramforge.initative.Demo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
