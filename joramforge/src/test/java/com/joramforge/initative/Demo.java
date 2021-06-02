@@ -7,6 +7,6 @@ public class Demo {
 	@Test
 	public void run()
 	{
-		Reporter.log(" Demo test run is pass successfully",true);	
+		Reporter.log(" Demo test run  pass successfully",true);	
 	}
 }
