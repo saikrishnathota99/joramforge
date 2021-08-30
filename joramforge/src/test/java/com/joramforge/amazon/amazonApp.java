@@ -35,7 +35,6 @@ public class amazonApp {
 		WebElement electronics=driver.findElement(By.xpath("//a[text()=' Electronics ']"));
 		electronics.click();
 		//elemnt added
-		
 	}
 }
 
